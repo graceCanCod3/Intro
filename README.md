@@ -19,4 +19,4 @@ I’m always eager to collaborate on **open-source projects** or healthcare/comm
 
 ---
 - 📫 How to reach me: [Email](mailto:gmadikaegbu.com)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/grace-madikaegbu-89057236)
+[![GitHub Followers](https://img.shields.io/github/followers/graceCanCod3?style=social)](https://github.com/graceCanCod3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/grace-madikaegbu-89057236)
