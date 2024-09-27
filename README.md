@@ -36,6 +36,7 @@ My projects often focus on merging my two passions: **community** and **technolo
 I’m always eager to collaborate on **open-source projects** or healthcare/community related tech initiatives. Feel free to check out my repositories or connect with me for any collaborative opportunities!
 
 ---
-[![GitHub Followers](https://img.shields.io/github/followers/graceCanCod3?style=social)](https://github.com/graceCanCod3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/grace-madikaegbu-89057236)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/grace-madikaegbu-89057236)
 
 📫 How to reach me: [Email](mailto:gmadikaegbu@gmail.com)
